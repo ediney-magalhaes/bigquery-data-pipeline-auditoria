@@ -5,6 +5,8 @@ Projeto de Engenharia de Dados focado na consolidação de múltiplas fontes de 
 ## 🎯 Objetivo
 Centralizar os dados de auditoria de conformidade de 5 unidades hospitalares diferentes. Cada unidade preenche seus dados em planilhas separadas no Google Sheets. O objetivo era criar um fluxo automatizado onde novas respostas na planilha refletissem automaticamente no Data Warehouse sem intervenção manual (upload de arquivos).
 
+![Visualização do Painel no Looker Studio](dashboard_preview.png)
+
 ## 🛠️ Tecnologias Utilizadas
 * **Google BigQuery:** Data Warehouse (Armazenamento e Processamento Serverless).
 * **SQL (Standard SQL):** Linguagem para definição de estrutura (DDL) e manipulação (DML).
