@@ -7,6 +7,8 @@ Centralizar os dados de auditoria de conformidade de 5 unidades hospitalares dif
 
 ![Visualização do Painel no Looker Studio](dashboard_preview.png)
 
+![Console do BigQuery](bigquery_preview.png)
+
 ## 🛠️ Tecnologias Utilizadas
 * **Google BigQuery:** Data Warehouse (Armazenamento e Processamento Serverless).
 * **SQL (Standard SQL):** Linguagem para definição de estrutura (DDL) e manipulação (DML).
